@@ -15,7 +15,6 @@ Server: Kestrel
 Location: /api/Tasks/43ea50cd-44a5-487e-b9f9-1879b1aa302e/Status
 Content-Length: 0
 
-
 ```
 
 Following the provided `Location`-Header, we get this response:  
@@ -27,7 +26,6 @@ Server: Kestrel
 Location: /api/Tasks/43ea50cd-44a5-487e-b9f9-1879b1aa302e/Status
 Content-Length: 0
 Retry-After: 10
-
 
 ```
 
@@ -41,7 +39,6 @@ Date: Thu, 27 Jun 2024 12:25:30 GMT
 Server: Kestrel
 Location: /api/Orders/43ea50cd-44a5-487e-b9f9-1879b1aa302e
 Content-Length: 0
-
 
 ```
 
