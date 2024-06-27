@@ -37,7 +37,7 @@ After the task is completed, we can change the response:
 HTTP/1.1 301 Moved Permanently
 Date: Thu, 27 Jun 2024 12:25:30 GMT
 Server: Kestrel
-Location: /api/Orders/43ea50cd-44a5-487e-b9f9-1879b1aa302e
+Location: /api/Orders/d6568476-009e-43bd-a9a3-2ac68f02e1a0
 Content-Length: 0
 
 ```
